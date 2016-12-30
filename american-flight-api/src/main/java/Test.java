@@ -2,6 +2,6 @@
 public class Test {
 
 	public static void main(String[] arg){
-		System.out.println("test program 1");
+		System.out.println("test program 2");
 	}
 }
